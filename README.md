@@ -166,36 +166,7 @@ storage-performance-intelligence/
 └── tests/
     └── test_graph.py
 ```
-
-## 10. Progress Log
-
-Append future milestones here.
-
-  -----------------------------------------------------------------------
-  Date                    Milestone               Status / evidence
-  ----------------------- ----------------------- -----------------------
-  2026-10-09              PostgreSQL schema,      Complete
-                          dataset, and analytical 
-                          views                   
-
-  2026-10-09              Database tool layer     5 tools implemented and
-                                                  exercised
-
-  2026-10-09              LangGraph question      Tested with store,
-                          understanding and tool  promotion, and anomaly
-                          selection               questions
-
-  2026-10-09              Evidence-based analysis Working; accuracy
-                          node                    improvements remain
-
-  2026-10-09              FastAPI `/ask` endpoint Tested with
-                                                  store-specific and
-                                                  anomaly questions
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 11. Append Future Updates
+## 10. Append Future Updates
 
 Add new entries to the progress log and update the relevant sections as
 the project evolves.
