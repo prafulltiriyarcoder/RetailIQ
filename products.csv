@@ -1,0 +1,41 @@
+product_id,product_name,category,subcategory,unit_cost,selling_price
+P001,Basic Cotton Tee,Clothing,T-Shirts,1800.0,3910.73
+P002,Premium Polo,Clothing,T-Shirts,1879.0,4031.49
+P003,Graphic T-Shirt,Clothing,T-Shirts,2281.0,4867.64
+P004,Slim Fit Jeans,Clothing,Jeans,1115.0,1777.18
+P005,Regular Fit Jeans,Clothing,Jeans,1575.0,2111.61
+P006,Relaxed Jeans,Clothing,Jeans,637.0,1137.51
+P007,Denim Jacket,Clothing,Jackets,1091.0,1768.6
+P008,Bomber Jacket,Clothing,Jackets,1063.0,1962.65
+P009,Lightweight Jacket,Clothing,Jackets,792.0,1130.05
+P010,Running Shoes,Footwear,Sports Shoes,2362.0,3421.92
+P011,Training Shoes,Footwear,Sports Shoes,1667.0,2759.54
+P012,Walking Shoes,Footwear,Sports Shoes,1795.0,2356.25
+P013,Canvas Sneakers,Footwear,Casual Shoes,1822.0,3527.7
+P014,Casual Loafers,Footwear,Casual Shoes,1998.0,4018.29
+P015,Slip-On Shoes,Footwear,Casual Shoes,678.0,926.58
+P016,Sports Sandals,Footwear,Sandals,2388.0,5070.83
+P017,Casual Sandals,Footwear,Sandals,500.0,930.48
+P018,Training T-Shirt,Sportswear,Activewear,802.0,1267.07
+P019,Performance Shorts,Sportswear,Activewear,2051.0,3895.53
+P020,Track Pants,Sportswear,Activewear,2195.0,3396.21
+P021,Gym Vest,Sportswear,Gym Wear,1870.0,3225.74
+P022,Compression Tights,Sportswear,Gym Wear,1785.0,3684.28
+P023,Workout Shorts,Sportswear,Gym Wear,1328.0,2397.24
+P024,Hiking T-Shirt,Sportswear,Outdoor,697.0,1215.86
+P025,Outdoor Jacket,Sportswear,Outdoor,692.0,1342.2
+P026,Backpack,Accessories,Bags,2181.0,2885.2
+P027,Laptop Bag,Accessories,Bags,1784.0,2643.08
+P028,Sling Bag,Accessories,Bags,1163.0,2178.03
+P029,Classic Watch,Accessories,Watches,863.0,1559.4
+P030,Sports Watch,Accessories,Watches,2223.0,4705.67
+P031,Leather Belt,Accessories,Belts,1978.0,3916.43
+P032,Casual Belt,Accessories,Belts,1359.0,2919.9
+P033,Leather Wallet,Accessories,Wallets,2022.0,3892.97
+P034,Card Holder,Accessories,Wallets,2119.0,4527.73
+P035,Face Wash,Beauty & Personal Care,Skincare,1897.0,3547.51
+P036,Moisturizer,Beauty & Personal Care,Skincare,1095.0,2215.52
+P037,Sunscreen,Beauty & Personal Care,Skincare,1663.0,3497.79
+P038,Shampoo,Beauty & Personal Care,Haircare,1654.0,2633.02
+P039,Conditioner,Beauty & Personal Care,Haircare,2338.0,4924.96
+P040,Hair Serum,Beauty & Personal Care,Haircare,1708.0,2570.78

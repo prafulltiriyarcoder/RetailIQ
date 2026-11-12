@@ -1,0 +1,21 @@
+store_id,store_name,city,region,store_type,store_size_sqft,opening_date
+S001,Delhi Store 1,Delhi,North,Standalone,3360,2022-07-18
+S002,Delhi Store 2,Delhi,North,Standalone,6272,2023-06-27
+S003,Delhi Store 3,Delhi,North,High Street,2966,2022-05-23
+S004,Gurugram Store 1,Gurugram,North,Standalone,5944,2019-05-11
+S005,Gurugram Store 2,Gurugram,North,High Street,3269,2023-02-24
+S006,Gurugram Store 3,Gurugram,North,High Street,4933,2022-04-30
+S007,Bengaluru Store 1,Bengaluru,South,Mall,3684,2020-04-04
+S008,Bengaluru Store 2,Bengaluru,South,High Street,6617,2021-01-17
+S009,Bengaluru Store 3,Bengaluru,South,Mall,2974,2021-12-18
+S010,Hyderabad Store 1,Hyderabad,South,Standalone,4547,2021-09-02
+S011,Hyderabad Store 2,Hyderabad,South,Standalone,2689,2020-07-16
+S012,Hyderabad Store 3,Hyderabad,South,Standalone,3767,2023-03-09
+S013,Mumbai Store 1,Mumbai,West,Standalone,6056,2020-10-08
+S014,Mumbai Store 2,Mumbai,West,Mall,5388,2022-07-21
+S015,Mumbai Store 3,Mumbai,West,Mall,4863,2024-08-23
+S016,Pune Store 1,Pune,West,High Street,4541,2022-09-25
+S017,Pune Store 2,Pune,West,Standalone,3978,2021-02-14
+S018,Pune Store 3,Pune,West,Standalone,2534,2024-05-09
+S019,Kolkata Store 1,Kolkata,East,High Street,6443,2021-10-18
+S020,Kolkata Store 2,Kolkata,East,High Street,5113,2022-02-03
